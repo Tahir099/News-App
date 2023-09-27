@@ -15,6 +15,6 @@ Used libraries:
 
 - **Retrofit:** Retrofit is one of the famous HTTP libraries which is used to parse the data from the internet using APIS..
 - **LiveData Runtime (1.5.0):** Simplifies integration between LiveData and Compose.
-- ** Dagger - Hilt:** Hilt provides a standard way to incorporate Dagger dependency injection into an Android application
+- **Dagger - Hilt:** Hilt provides a standard way to incorporate Dagger dependency injection into an Android application
 
 
